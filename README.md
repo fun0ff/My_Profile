@@ -6,6 +6,7 @@
 <h3 align="center">🛡️ Offensive Security Specialist & Full-Stack Developer | Securing the Digital World 🚀</h3>
 
 <p align="center">
+  <a href="tel:07845609112"><img src="https://img.shields.io/badge/Phone-07845609112-success?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
   <a href="mailto:abdullah.taha.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Location-Babil%2C%20Iraq-blue?style=for-the-badge&logo=google-maps" alt="Location"/>
@@ -43,11 +44,11 @@
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fun0ff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fun0ff&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
