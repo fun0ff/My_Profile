@@ -15,8 +15,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Graduated with a **Bachelor's Degree in IT - Cybersecurity Department** from the *University of Babylon* (2026)[cite: 2].
-- 💻 Over 5+ years of hands-on experience in **cybersecurity, penetration testing, and software development**[cite: 1].
+- 🎓 Graduated with a **Bachelor's Degree in IT - Cybersecurity Department** from the *University of Babylon* (2026).
+- 💻 Over 5+ years of hands-on experience in **cybersecurity, penetration testing, and software development**.
 - 🔍 Passionate about Bug Bounty Hunting, Binary Analysis, Reverse Engineering, and building secure full-stack applications.
 
 ---
@@ -25,19 +25,19 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Offensive Security** | Web App Pentesting (OWASP Top 10, JWT, OAuth, APIs), Network Auditing, MikroTik Hardening, Bug Bounty[cite: 1] |
-| **Security & Analysis Tools** | Burp Suite Pro, CAIDO, Metasploit, Wireshark, Nmap, IDA Pro, Ghidra, x64dbg, Sqlmap, Nuclei[cite: 1] |
-| **Programming Languages** | Python, PHP (Laravel), C/C++, C# (ASP.NET), JavaScript, Bash, Dart (Flutter)[cite: 1] |
-| **DevSecOps & Infrastructure**| Linux Server Hardening, Docker, Portainer, Reverse Proxy, N8n, Odoo ERP[cite: 1] |
-| **Databases** | MySQL, PostgreSQL, SQLite, NoSQL, MS SQL Server[cite: 1] |
+| **Offensive Security** | Web App Pentesting (OWASP Top 10, JWT, OAuth, APIs), Network Auditing, MikroTik Hardening, Bug Bounty |
+| **Security & Analysis Tools** | Burp Suite Pro, CAIDO, Metasploit, Wireshark, Nmap, IDA Pro, Ghidra, x64dbg, Sqlmap, Nuclei |
+| **Programming Languages** | Python, PHP (Laravel), C/C++, C# (ASP.NET), JavaScript, Bash, Dart (Flutter) |
+| **DevSecOps & Infrastructure**| Linux Server Hardening, Docker, Portainer, Reverse Proxy, N8n, Odoo ERP |
+| **Databases** | MySQL, PostgreSQL, SQLite, NoSQL, MS SQL Server |
 
 ---
 
 ### 🏆 Certifications & Recognitions
-- 🏅 **Certificate of Academic Excellence** - University of Babylon (May 2026)[cite: 2].
-- 📜 **Graduation Thesis Excellence** - Hammurabi Consulting and Development (May 2026)[cite: 2].
-- 🌐 **CISCO Networking Academy Recognition** (April 2025)[cite: 2].
-- 🎖️ **Technical Engagement Certificate** - University of Babylon (February 2025)[cite: 2].
+- 🏅 **Certificate of Academic Excellence** - University of Babylon (May 2026).
+- 📜 **Graduation Thesis Excellence** - Hammurabi Consulting and Development (May 2026).
+- 🌐 **CISCO Networking Academy Recognition** (April 2025).
+- 🎖️ **Technical Engagement Certificate** - University of Babylon (February 2025).
 
 ---
 
